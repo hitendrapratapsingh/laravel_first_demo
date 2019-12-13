@@ -1,0 +1,9 @@
+https://github.com/anil-sidhu/laravel-passport-poc
+https://www.youtube.com/watch?v=5411bR2jtM4&list=PL8p2I9GklV44w0QHfw1xyfO3NnuccntTC
+
+POST MAIN
+
+http://127.0.0.1:8000/api/register
+
+http://127.0.0.1:8000/api/details
+POST->Header->Key->Authorization->value Bearer "Generated Token"
